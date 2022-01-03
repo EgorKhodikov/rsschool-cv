@@ -10,11 +10,7 @@ My name is Egor. I'm 24.
 * HTML (Basic)
 * CSS (Basic)
 * Git (Basic)
-## Code Example
-
-## Experience
-
 ## Education
 * University: Polotsk State University, engineer
 ## English
-B2 (Сertificate of completion of training courses at PSU)
+* B2 (Сertificate of completion of training courses at PSU)
